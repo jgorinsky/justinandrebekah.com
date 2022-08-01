@@ -1554,9 +1554,9 @@ a.de-button:hover, input[type=submit]:hover{
 a.de-button.reverse:hover, input[type=submit].reverse:hover{
 	background-color:#FFF;
 	border-color:#FFF;
-	color:#6a6a6a;
+	color:#008080;;
 	text-decoration:none;
-	border:solid 1px #6a6a6a
+	border:solid 1px #008080;
 }
 
 input[type=submit]:disabled, input[type=submit]:hover:disabled{

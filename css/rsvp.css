@@ -1,0 +1,11 @@
+div#rsvp-container {
+    padding-top: 145px; 
+    background-image: url('../images/footer.jpg'); 
+    background-position: center 100px;
+}
+
+@media screen and (max-width: 991px) {	
+    div#rsvp-container {
+        padding-top: 100px; 
+    }
+}
